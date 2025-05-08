@@ -1,0 +1,11 @@
+package com.shinhan.SimpleBoard;
+
+public class UpdateController implements CommonControllerInterface {
+
+	@Override
+	public void execute() {
+		
+		
+	}
+
+}
