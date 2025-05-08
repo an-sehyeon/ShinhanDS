@@ -1,5 +1,5 @@
 Day01(25.5.7)
-git 토큰 pw : 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
+
 
 
 1. 효율적인 협업과 생산성도구 활용
